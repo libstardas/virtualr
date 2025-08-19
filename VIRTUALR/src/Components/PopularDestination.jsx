@@ -1,25 +1,25 @@
 import React from "react";
 const destinations = [
   {
-    image: "/public/images/tawang.jpg",
+    image: "../images/tawang.jpg",
     title: "Tawang Monastery, Arunachal Pradesh",
     description:
       "Tawang Monastery is indeed the largest monastery in India and the second largest in the world. Tawang Monastery is situated at an elevation of approximately 10,000 feet. Tawang Monastery, also known as Gaden Namgyal Lhatse, is the largest monastery in India and the second largest in the world, located in Arunachal Pradesh",
   },
   {
-    image: "/public/images/sangti.webp",
+    image: "../images/sangti.webp",
     title: "Dirang, Arunachal Pradesh",
     description:
       "Sangti Valley, near Dirang in Arunachal Pradesh, is a serene and scenic destination known for its green meadows, flowing rivers, pine-covered hills, and rare black-necked cranes. Rich in Monpa culture, it’s perfect for peaceful getaways and nature exploration.",
   },
   {
-    image: "/public/images/selapass.jpg",
+    image: "../images/selapass.jpg",
     title: "Sela pass, Arunachal Pradesh",
     description:
       "Sela Pass, located at an altitude of around 13,700 feet in Arunachal Pradesh, is a high-altitude mountain pass offering stunning views of snow-clad peaks and the pristine Sela Lake. It’s a vital connection to Tawang and holds spiritual significance in Tibetan Buddhism, making it both a scenic and culturally rich destination.",
   },
   {
-    image: "/public/images/tawanggate.jpg",
+    image: "../images/tawanggate.jpg",
     title: "Tawang gate, Arunachal Pradesh",
     description:
       "Tawang Gate, also called the Tawang Arch, is the ceremonial entrance to Tawang town in Arunachal Pradesh. Adorned with traditional Buddhist designs, it symbolizes a warm welcome and cultural richness. Surrounded by scenic hills and forests, it offers stunning valley views and marks the beginning of Tawang’s serene and spiritual journey.",

@@ -34,7 +34,7 @@ const Contact = () => {
     <div className="bg-gray-100">
       <div
         className="relative h-screen bg-cover bg-center "
-        style={{ backgroundImage: "url('/public/images/selapass.jpg')" }}
+        style={{ backgroundImage: "url('../images/selapass.jpg')" }}
       >
         <motion.div
           initial={{ opacity: 0, y: 100 }}

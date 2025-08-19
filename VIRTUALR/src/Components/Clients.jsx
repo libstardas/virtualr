@@ -3,20 +3,20 @@ import React from "react";
 const testimonials = [
   {
     name: "Bhupesh Mech",
-    image: "/public/images/img1.jpg",
+    image: "../images/img1.jpg",
     text: "this travelling agency provided excellent services and helped us the perfect vacation",
     location: "Arunachal Pradesh, India",
   },
   {
     name: "Riki Nath",
-    image: "/public/images/img2.jpg",
+    image: "../images/img2.jpg",
     text: "Amazing exprience! the tour guides were knowledgeable and the destination were breathable",
     location: "Tawang, Arunachal Pradesh",
   },
   {
     name: "Diya Rai",
 
-    image: "/public/images/band.jpg",
+    image: "../images/band.jpg",
     text: "Great coustomer service and fantastic travel packages. well definitely book with them",
     location: "Sela pass, Arunachal Pradesh ",
   },

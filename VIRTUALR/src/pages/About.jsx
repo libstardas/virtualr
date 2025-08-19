@@ -5,7 +5,7 @@ const About = () => {
     <div className="bg-gray-100">
       <div
         className="relative h-screen bg-cover bg-center "
-        style={{ backgroundImage: "url('/public/images/im6.jpg')" }}
+        style={{ backgroundImage: "url('../images/im6.jpg')" }}
       >
         <motion.div
           initial={{ opacity: 0, y: 100 }}
@@ -23,7 +23,7 @@ const About = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="flex items-center justify-center">
             <img
-              src="/public/images/tawanggate.jpg"
+              src="../images/tawanggate.jpg"
               alt=""
               className="rounded-lg shadow-md w-full h-auto"
             />

@@ -1,19 +1,19 @@
 import React from "react";
 import { motion } from "motion/react";
 const images = [
-  "/public/images/im1.jpg",
-  "/public/images/im2.jpg",
-  "/public/images/im3.jpg",
-  "/public/images/im4.jpg",
-  "/public/images/im5.jpg",
-  "/public/images/im6.jpg",
+  "../images/im1.jpg",
+  "../images/im2.jpg",
+  "../images/im3.jpg",
+  "../images/im4.jpg",
+  "../images/im5.jpg",
+  "../images/im6.jpg",
 ];
 const Gallery = () => {
   return (
     <div>
       <div
         className="relative h-screen bg-cover bg-center "
-        style={{ backgroundImage: "url('/public/images/im2.jpg')" }}
+        style={{ backgroundImage: "url('../images/im2.jpg')" }}
       >
         <motion.div
           initial={{ opacity: 0, y: 100 }}
