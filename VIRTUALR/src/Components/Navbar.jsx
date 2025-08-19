@@ -15,7 +15,7 @@ const Navbar = () => {
           <img
             style={{ height: "40px" }}
             className=" w-auto rounded overflow-hidden text-center"
-            src="/public/images/now.jpg"
+            src="../images/now.jpg"
             alt="logo"
           />
         </h3>

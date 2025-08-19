@@ -4,14 +4,14 @@ import Services from "../Components/Services";
 import Clients from "../Components/Clients";
 import Footer from "../Components/Footer";
 import { motion } from "motion/react";
-
+import video from "../assets/video.mp4";
 const Home = () => {
   return (
     <>
       <div className="relative h-screen bg-cover bg-center z-0">
         <video
           className="absolute inset-0 w-full h-full object-cover z-0"
-          src="/src/assets/video.mp4"
+          src={video}
           autoPlay
           muted
           loop
