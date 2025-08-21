@@ -24,7 +24,7 @@ const Home = () => {
           viewport={{ once: true }}
           className="absolute inset-0 bg-opacity-50 flex flex-col items-center justify-center z-10"
         >
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
+          <h1 className="text-3xl md:text-6xl font-bold text-white mb-4">
             Explore the World with us
           </h1>
           <p className="text-lg md:text-2xl text-white mb-8">
